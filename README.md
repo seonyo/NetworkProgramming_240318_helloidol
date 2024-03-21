@@ -21,3 +21,5 @@
    - 코드 작성: (models ->)views -> templates -> urls
    1. views
       1. say_ _hello()_
+   2. urls
+      1. _playground/hello/_ -> _say_hello_
